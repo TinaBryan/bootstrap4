@@ -1,0 +1,17 @@
+
+.navbar .navbar-brand {
+	color: rgba(255,255, 255, 0.85);
+	font-size: 1rem;
+}
+
+.jumbotron {
+	background-image: url('../img/jumbo-bg.jpg');
+	background-size: cover;
+}
+
+/* Next steps - 
+	 Add form validation to payment fields
+   Add validation to registration fields 
+   Add speaker thumbnail images to left of scheduled talk
+   Add a collapsible component to each schedule item that shows and hides 
+      information about each talk */
